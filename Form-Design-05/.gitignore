@@ -1,0 +1,5 @@
+# Ignored Files and Folders
+
+/src
+/.vscode
+tailwind.config.js
